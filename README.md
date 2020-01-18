@@ -1,2 +1,2 @@
-# MGL7760-TP1-Particle
+# MGL7760-TP1-Photon
 Qualité et productivité des outils logiciels
