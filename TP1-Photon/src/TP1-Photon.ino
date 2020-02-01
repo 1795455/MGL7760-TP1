@@ -18,7 +18,7 @@ int count;
 #include <FSM_led_BLUE.h>
 
 
-SYSTEM_MODE(SEMI_AUTOMATIC);
+//SYSTEM_MODE(SEMI_AUTOMATIC);
 
 
 
